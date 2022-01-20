@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanmay8598
 - 👀 I’m interested in learning and working on cool technologies and help to contribute to the society.
-- 🌱 I’m currently learning and working on Full Stack Web Devlopment
+- 🌱 I’m currently  working on (FSD) MERN & Mobile app development with React Native
 - 💞️ I’m looking to collaborate on Web Dev projects
 - 📫 Reach me on mail- tanmay8598@gmail.com
 
